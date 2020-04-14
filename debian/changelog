@@ -1,0 +1,17 @@
+python-nnpy (1.4.2) focal; urgency=medium
+
+  * Initial focal backport 
+
+ -- Frederic LOUI <fl@mp.ls>  Tue, 14 Apr 2020 08:08:09 +0000
+
+python-nnpy (1.4.2-bionic-2) bionic; urgency=medium
+
+  * Corrected package name 
+
+ -- Frederic LOUI <frederic.loui@renater.fr>  Sun, 31 Mar 2019 08:08:13 +0000
+
+python-nnpy (1.4.2-bionic-1) bionic; urgency=low
+
+  * source package automatically created by stdeb 0.8.5
+
+ -- Dirkjan Ochtman <dirkjan@ochtman.nl>  Thu, 28 Mar 2019 17:45:00 +0000
